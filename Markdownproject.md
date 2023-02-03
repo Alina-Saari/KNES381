@@ -8,8 +8,9 @@
 
   
   Here is text with a subscript, VO<sub>2</sub>
-  <span style="color:blue">
-  This text should be blue </span>
+ <p <span style="color:blue">
+  This text should be blue </span> </p>
   
+[This will link to a readme](
 
-<p> Some blue text <span style="color:blue">some <em>blue</em> text</span>.<p/>
+
