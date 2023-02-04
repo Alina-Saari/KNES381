@@ -11,6 +11,7 @@
  <p <span style="color:blue">
   This text should be blue </span> </p>
   
-[This will link to a readme](
+[This will link to a readme](https://github.com/Alina-Saari/KNES381/blob/main/readme.md)
+
 
 
