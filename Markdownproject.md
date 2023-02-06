@@ -7,9 +7,8 @@
     
 
   
-  Here is text with a subscript, VO<sub>2</sub>
- <p <span style="color:blue">
-  This text should be blue </span> </p>
+Here is text with a subscript, VO<sub>2</sub>
+ 
   
 [This will link to a readme](https://github.com/Alina-Saari/KNES381/blob/main/readme.md)
 
