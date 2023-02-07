@@ -8,5 +8,4 @@
 <p> Here is text with a subscript and diacritical: V&#775O<sub>2</sub> </p>
   
 
-[This will link to a readme subfolder](https://github.com/Alina-Saari/KNES381/blob/main/Imagesubfolder/readme4.md)
-
+[This will link to a readme subfolder](/Imagesubfolder/readme4.md)
