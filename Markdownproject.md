@@ -10,5 +10,5 @@
   
 [This will link to a readme](https://github.com/Alina-Saari/KNES381/blob/main/readme.md)
 
-
+[This will link to a readme subfolder](https://github.com/Alina-Saari/KNES381/blob/main/readme3.md/image)
 
