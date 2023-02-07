@@ -9,3 +9,7 @@
   
 
 [This will link to a readme subfolder](/Imagesubfolder/readme4.md)
+
+  
+  
+  <p> <span style="color:red"> This text is red</span> </p> 
